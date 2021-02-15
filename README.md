@@ -146,3 +146,6 @@ const [...] = useState();
 1:50:00 - connect
   https://react-redux.js.org/api/connect
 2:24:24 - Ответы на вопросы
+
+#7: React Pizza — разработка интернет-магазина (for junior)
+
